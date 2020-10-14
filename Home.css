@@ -4,7 +4,6 @@
 #outer-div {
   width: 100%;
   text-align: center;
-  background-color: #0666a3;
 }
 
 #inner-div {
@@ -22,4 +21,13 @@
   border: 15px solid #FD0004;
   padding: 50px;
   margin: 20px;
+}
+.logo{
+height: 150px;
+width: 500px;
+align-self: center;
+}
+.name{
+font-size: 90px;
+align-content: center;
 }
